@@ -1,4 +1,4 @@
-// quueue using linked list. 
+// Queue using linked list. 
 
 #include<iostream> 
 using namespace std; 
